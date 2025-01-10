@@ -1,0 +1,25 @@
+/* belleza for paragraph */
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+/* bodoni moda fir header */
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+* {
+    margin:0;
+}
+body {
+    background-color: lime;
+}
+.tr {
+    width: 50vw;
+}
+header {
+    color: black;
+    text-align: center;
+    margin: 10px;
+    font-family: "Bodoni Moda", serif;
+}
+form {
+    background-color: white;
+    padding-left: 10px;
+    margin: 10px;
+    font-family: "Belleza", serif;
+}
